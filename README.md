@@ -1,5 +1,5 @@
 # WifiSendTest
-
+![Program](Program.png)
 ## DHT
 The DHT11 sensor is read every 2 seconds using interrupts and the values are stored in the global uint8_t array **sensorData**.
 
